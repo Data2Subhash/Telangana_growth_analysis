@@ -39,7 +39,7 @@ Welcome to the Telangana Growth Analysis Power BI Dashboard repository! This das
 
 ## How to Use:
 
-1. Download and open the Telangana Growth Analysis.pbix file in Power BI Desktop.
+1. open the Telangana Growth Analysis.pbix file in Power BI Desktop.
 2. Navigate through different pages for specific insights.
 3. Leverage the interactive features to customize the analysis.
 
