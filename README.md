@@ -5,7 +5,7 @@ Welcome to the Telangana Growth Analysis Power BI Dashboard repository! This das
 ## Dashboard Sections:
 
 1. ### [Home Page]
-   ![Data Modeling](1.png)
+   ![Home_Page](dashboard_images/1.png)
    - Quick access to other specific views.
 
 2. **Stamp Registration View:**[dashboard_images/2.png]
