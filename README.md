@@ -33,7 +33,7 @@ Welcome to the Telangana Growth Analysis Power BI Dashboard repository! This das
    - Overview of Dashboard
 
 ## Data Model:
-
+![Data_model](dashboard_images/datamodel(2).png)
 - Utilizes a robust data model for efficient data analysis.
 - Integrated data from diverse sources for a holistic perspective.
 
