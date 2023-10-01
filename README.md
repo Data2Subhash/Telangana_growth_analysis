@@ -4,20 +4,27 @@ Welcome to the Telangana Growth Analysis Power BI Dashboard repository! This das
 
 ## Dashboard Sections:
 
-1. **Home Page:**
+1. **Home Page:**[dashboard_images/1.png]
    - Quick access to other specific views.
 
-2. **Stamp Registration View:**
+2. **Stamp Registration View:**[dashboard_images/2.png]
    - Analysis of document registration revenue and e-stamp registration revenue.
    - Year-wise comparison for informed decision-making.
 
-3. **Transportation View:**
+3. **Transportation View:**[dashboard_images/3.png]
    - Distribution of vehicles by type and fuel across districts.
    - Insights into vehicle sales growth and preferences.
 
-4. **TS-iPASS View:**
+4. **TS-iPASS View-I:**[dashboard_images/4.png]
    - Overview of sector-wise investments and employee data.
    - Understand the correlation between investments, vehicle sales, and stamp revenue.
+
+5. **TS-iPASS View-II:**[dashboard_images/5.png]
+   - Overview of district-wise employeement data
+   - Understand the correlation between investments, vehicle sales, and stamp revenue.
+
+6. **Info-page:**[dashboard_images/6.png]
+   - Overview of Dashboard
 
 ## Data Model:
 
